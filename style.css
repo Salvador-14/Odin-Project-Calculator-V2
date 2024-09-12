@@ -13,9 +13,10 @@
   background-color: rgba(128, 128, 128, 0.582);
   border: black solid 1px;
   border-radius: 9px;
-  padding: 8px;
+  padding: 1px 10px;
   margin: 10px;
   width: 240px;
+  height: 60px;
   text-align: right;
   font-size: 20px;
 }
